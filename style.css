@@ -156,7 +156,7 @@ input[type="checkbox"]{
 .sec2 {
   display: flex;
   justify-content: center;
-  gap: 100px;
+  gap: 120px;
   padding-top: 100px;
   background-color: #FCFCFC;
 }
